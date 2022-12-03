@@ -5,7 +5,7 @@
 <h2>Hi I'm Manoj Mogal </h2>
 <h3>Aspiring MERN stack developer</h3>
 
-[![Manoj's GitHub stats](https://github-readme-stats.vercel.app/api?username=manojmogal007&theme=merko)](https://github.com/manojmogal007/github-readme-stats)
+[![Manoj's GitHub stats](https://github-readme-stats.vercel.app/api?username=manojmogal007)](https://github.com/manojmogal007/github-readme-stats)
 
 - 👋 Hi, I’m @manojmogal007
 - 👀 I’m interested in Coding
