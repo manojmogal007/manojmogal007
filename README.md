@@ -6,7 +6,7 @@
 
 <h1 align='center'>Hi I'm Manoj Mogal </h1>
 <!-- <h3>Aspiring MERN stack developer</h3> -->
-  <a align='center' href="https://github.com/durgeshrai633/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=MERN+Stack+Web+Developer;&center=true&width=1000&height=50"></a>
+  <a align='center' href="https://github.com/durgeshrai633/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=MERN+Stack+Developer;&center=true&width=1100&height=50"></a>
 
 - 👋 Hi, I’m mAnoJ 😎
 - 👀 I’m interested in Coding, Travelling, Bike riding
