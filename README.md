@@ -10,7 +10,7 @@
 
 - 👋 Hi, I’m mAnoJ 😎
 - 👀 I’m interested in Coding, Travelling, Bike riding
-- 🌱 I’m currently learning MERN Stack
+- 🌱 I’m currently working @Portqii
 - 📧 Email - manojpatil7076@gmail.com
 - 💼 Portfolio - [manojmogal007](https://manojmogal007.github.io)
 
